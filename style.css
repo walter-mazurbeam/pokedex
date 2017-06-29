@@ -1,0 +1,13 @@
+.pokemon {
+  width: 70%;
+  display: inline-block;
+
+}
+
+.pokedex {
+  width: 25%;
+  height: 500px;
+  border: 3px solid red;
+  display: inline-block;
+  position: fixed;
+}
